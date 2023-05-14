@@ -1,5 +1,5 @@
-### Hola! Mi nombre es Maite 👋
-<hr>
+# Hola! Mi nombre es Maite 👋
+
 <!--
 **MaiPresa/MaiPresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Web Designer
+<br><br>
+## Lenguajes 📖
+
+<br><br>
+## Herramientas de Programación 💻
+
