@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Web Designer
 <br><br>
 ## Lenguajes 📖
-<img src="perfilGitHub/html.svg" alt="html5 icon" style="vertical-align:top margin:6px 4px"> <img src="perfilGitHub/css3.svg" alt="css3 icon" style="vertical-align:top margin:6px 4px"> <img src="perfilGitHub/sass.svg" alt="sass icon" style="vertical-align:top margin:6px 4px"> <img src="perfilGitHub/js.svg" alt="js icon" style="vertical-align:top margin:6px 4px">
+<a href="#"><img src="perfilGitHub/html.svg" alt="html5 icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/css3.svg" alt="css3 icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/sass.svg" alt="sass icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/js.svg" alt="js icon" style="vertical-align:top margin:6px 4px"></a>
 <br><br>
 ## Herramientas de Programación 💻
-<img src="perfilGitHub/visualstudio_code.svg" alt="VSCode icon" style="vertical-align:top margin:6px 4px">
+<a href="#"><img src="perfilGitHub/visualstudio_code.svg" alt="VSCode icon" style="vertical-align:top margin:6px 4px"></a>
