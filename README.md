@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola! Mi nombre es Maite 👋
+<hr>
 <!--
 **MaiPresa/MaiPresa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
