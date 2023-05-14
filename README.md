@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Web Designer
+### Web Designer<br><br>
+`Soy diseñadora web con conocimientos de programación front-end.`
 <br><br>
-<a href="#"><img src="perfilGitHub/imagenGitHub.jpg" alt="banner image" width="100%" height="400px"></a>
 ## Lenguajes 📖
 <a href="#"><img src="perfilGitHub/html.svg" alt="html5 icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/css3.svg" alt="css3 icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/sass.svg" alt="sass icon" style="vertical-align:top margin:6px 4px"></a> <a href="#"><img src="perfilGitHub/js.svg" alt="js icon" style="vertical-align:top margin:6px 4px"></a>
 <br><br>
